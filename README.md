@@ -1,2 +1,26 @@
-# computerspeak-4.2.40
-This a python module which helps the user to make the compter speak, This also available on PyPi
+# Computerspeak
+
+Computerspeak module helps user to make computer speak anything with ease
+
+## Installation
+
+```bash
+pip install computerspeak
+```
+
+## Usage
+
+```python
+import speak
+
+speak.speaker('The Text You Want To Make Your Computer Speak')
+```
+
+#### Changing  Voice
+
+```python
+speak.change(0 or 1)
+```
+
+Use 0 for male voice and 1 for female voice By Default it is set to 0
+
