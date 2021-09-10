@@ -22,4 +22,6 @@ speak.speaker('The Text You Want To Make Your Computer Speak')
 speak.change(0 or 1)
 ```
 
-Use 0 for male voice and 1 for female voice By Default it is set to 0
+Use 0 for male voice and 1 for female voice By Default it is set to 0 
+<br/>
+The Wheel File For This Module Is Located In The 'dist' Folder And The Main File Is In The 'speak' Folder
