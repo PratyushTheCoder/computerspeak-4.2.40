@@ -7,6 +7,10 @@ Computerspeak module helps user to make computer speak anything with ease
 ```bash
 pip install computerspeak
 ```
+If you already have it then upgrade it using this command
+```bash
+pip install computerspeak --upgrade
+```
 
 ## Usage
 
