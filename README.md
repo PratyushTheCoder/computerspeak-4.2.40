@@ -23,8 +23,7 @@ speak.speaker('The Text You Want To Make Your Computer Speak')
 #### Changing  Voice
 
 ```python
-speak.change(0 or 1)
+speak.change(according to your voice index)
 ```
-
-Use 0 for male voice and 1 for female voice By Default it is set to 0
+You can put numbers according to your voice index and the voices you have installed, By Default it is set to 0
 
